@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppCamara</string>
+    <string name="valettituloformcamara">CAMARA Y PERMISOS DE EJECUCION</string>
+    <string name="valbtncompartir">Compartir</string>
+    <string name="valbtncamara">Tomar Foto</string>
+</resources>
